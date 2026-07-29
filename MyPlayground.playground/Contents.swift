@@ -1,0 +1,7 @@
+var a = 3
+
+print(a)
+
+a = 8
+
+print(a)
