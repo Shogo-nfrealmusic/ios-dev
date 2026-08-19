@@ -1,7 +1,6 @@
-var a = 3
+func greeting() {
+    print("hello")
+}
 
-print(a)
+greeting()
 
-a = 8
-
-print(a)
